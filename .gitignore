@@ -39,4 +39,5 @@ vignettes/*.pdf
 .Renviron
 
 #files in data
-data/**
+data/*.xlsx
+data/*.ods
